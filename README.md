@@ -4,7 +4,7 @@
 Bonsoir, Bonjour tout le monde comme prévu voici la V2 d'Amazon qui est enfin disponible sur le discord 
 pour pouvoir le télécharger l le lien du discord et ci-dessous
 
-/// Information importante \\\
+# Information importante
 
 # Le contenu de la ressource 
 Mapping, 
